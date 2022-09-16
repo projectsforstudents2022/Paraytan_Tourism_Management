@@ -1,0 +1,105 @@
+
+body
+{
+	background-image:url('s2.png');
+	background-size: cover;
+	background-position: center;
+}
+.main
+{
+	top:7%;
+	position: absolute;
+}
+.main h1
+{
+	margin-top:20px;
+	color:#cc3300;
+	font-family:sitka small;
+	font-size:40px;
+}
+.main h2
+{
+	margin-top:70px;
+	color:#cc3300;
+	font-family:sitka small;
+	font-size:30px;
+}
+.heading3
+{
+	color:#cc3300;
+	font-family: cambria;
+}
+
+.main p 
+{
+	font-size:17px;
+	color:#000;
+	font-family:sitka small;
+	margin-top: 40px;
+	padding:5px;
+}
+.family
+{
+	text-decoration:none;
+	display:inline-block;
+	position: absolute;
+	bottom:7%;
+	left:3%;
+}
+.honey
+{
+	text-decoration:none;
+	display:inline-block;
+	position: absolute;
+	bottom:7%;
+	left:47%;
+}
+.monsoon
+{
+	text-decoration:none;
+	display:inline-block;
+	position: absolute;
+	bottom:7%;
+	right:3%;
+	float:right;
+}
+a
+{
+	border:1px solid #fff;
+	padding:10px 30px;
+	color:#fff;
+	text-decoration:none;
+	border-radius:5px;
+	transition: 0.6 ease;
+}
+a:hover
+{
+	background-color: #ff8533;
+	color: #004d00;
+}
+.contactstyle
+{
+	font-family:sitka small;
+	position:absolute;
+	 right: 0;
+    bottom: 0;
+	min-width:100%;
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+.main1
+{
+	position:absolute;
+	font-family:sitka small;
+	left:1%;
+}
+.contact
+{
+	position:absolute;
+	right:43%;
+}

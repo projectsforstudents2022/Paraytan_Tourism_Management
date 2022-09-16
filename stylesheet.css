@@ -1,0 +1,125 @@
+body
+{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('screen.png');
+	background-size: cover;
+	background-position: center;
+}
+.main
+{
+	max-width:1200px;
+	margin:auto;
+	position:absolute;
+	top:15%;
+	left:5.5%;
+}
+.english
+{
+	position:absolute;
+	top:5.3%;
+	left:88%;
+	padding:2px;
+}
+.english a 
+{
+	border: 1px #fff ;
+	border-radius:5px;
+}
+
+ul 
+{
+	list-style-type:none;
+	margin-left:310px;
+	margin-top:90px;
+}
+ul li 
+{
+	display: inline-block;
+	padding:10px;
+}
+ul li a 
+{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px #fff ;
+	border-radius:5px;
+	transition: 0.6s ease;
+}
+a:hover
+{
+	background-color: #ff8533;
+	color: #004d00;
+}
+.logo img
+{
+	position:absolute;
+	top:4%;
+	left:40%;
+}
+
+.title
+{
+	position: absolute;
+	top:50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.title h1
+{
+	color:#fff;
+	font-size:70px;
+}
+.book
+{
+	position:absolute;
+	margin-left:93%;
+	margin-top:2%;
+	padding:5px;
+	text-decoration: none;
+	color: #fff;
+	border:1px solid #fff;
+	transition: 0.6s ease;
+}
+.button
+{
+	position:absolute;
+	top: 72%;
+	left: 50%;
+	transform: translate(-50%,-50%);	
+}
+.btn
+{
+	border:1px solid #fff;
+	padding:10px 30px;
+	color:#fff;
+	text-decoration:none;
+	transition: 0.6 ease;
+}
+.btn hover
+{
+	background-color:#fff2e6;
+	color: #293d3d;
+}
+.voice img
+{
+	position:absolute;
+	top:85%;
+	left:48.5%;
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+.logo1
+{
+	position:absolute;
+}
+marquee
+{
+	position:absolute;
+	bottom:5%;
+	font-family:sitka small;
+}
