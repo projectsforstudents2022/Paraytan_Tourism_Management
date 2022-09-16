@@ -3,7 +3,7 @@
 
 ## How to run
 1. Download this repository and extract the file
-2. Run 'index.html' file in browser
+2. Run '@paraytan.html' file in browser
 
 
 ## Screenshot
